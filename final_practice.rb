@@ -38,7 +38,7 @@ end
 puts square(4)
 
 # What is the return value of your method?
-# 4.0
+# 16
 # How many arguments did you pass your method?
 # One
 # What data type was your argument(s)?
