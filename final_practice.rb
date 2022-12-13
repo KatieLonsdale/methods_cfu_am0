@@ -32,10 +32,10 @@ puts greeting('Katie')
 #3: Write a method named square that takes in one number, and returns the square of that number
 
 def square(i)
-    Math.sqrt(i)
+    i * i
 end
 
-puts square(16)
+puts square(4)
 
 # What is the return value of your method?
 # 4.0
